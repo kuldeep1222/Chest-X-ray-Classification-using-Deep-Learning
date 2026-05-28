@@ -1,0 +1,8 @@
+Chest X-ray Classification Metrics
+--------------------------------
+Test Accuracy: 96.88%
+Model: Simple CNN
+Input Size: 128x128
+Batch Size: 32
+Optimizer: Adam
+Loss Function: CrossEntropyLoss

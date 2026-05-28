@@ -1,0 +1,8 @@
+Chest X-ray Classification Metrics
+--------------------------------
+Test Accuracy: 93.12%
+Model: Pretrained MobileNet
+Input Size: 224x224
+Batch Size: 32
+Optimizer: Adam
+Loss Function: CrossEntropyLoss
