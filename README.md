@@ -182,8 +182,8 @@ Improves convergence and stabilizes training.
 
 | Experiment  | Accuracy         |
 | ----------- | ---------------- |
-| Simple CNN  | Good Performance |
-| MobileNetV2 | 93.12%           |
+| Simple CNN  | 96.88            |
+| MobileNetV2 | 91.88%           |
 
 Observation:
 
