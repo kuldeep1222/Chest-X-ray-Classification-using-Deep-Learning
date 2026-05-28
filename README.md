@@ -8,7 +8,7 @@ A Deep Learning-based medical image classification project that detects **Pneumo
 The project also includes **Grad-CAM visualization** to interpret which regions of the X-ray influenced the model prediction.
 
 ---
-
+DATASET :: https://drive.google.com/file/d/1Lx47Vuqf2OXzGeDGAZMfno0TY8RQJB0M/view
 # Project Overview
 
 Pneumonia is a serious lung infection that can be identified using Chest X-ray scans.
